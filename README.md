@@ -6,7 +6,7 @@ This project predicts the political inclination of individuals based on the cont
 The implementation follows a machine learning pipeline that includes text preprocessing, feature construction, and classification using Support Vector Machines (SVM). Cross-validation is employed to determine the optimal kernel for SVM.
 
 ---
-
+### See deployment here - https://tweetsclassification.streamlit.app/ ( test with random tweets to check model accuracy)
 ## Workflow  
 
 ### 1. **Text Preprocessing**  
